@@ -1,5 +1,5 @@
 # New-Perspectives
-Exploration in Monocular Depth Images.
+Exploration in Monocular Depth Images at MIT with Object Based Media.
 
 New Perspectives, looks at stereograpic photos and effects. Images that acquire a depth information are typically made from a pair of stereo images or from infrared lasers(i.e. LIDAR). While most phones currently do not include a lidar sensor or a stereo camera, getting depth photos could be possible in a monocular setup. 
 	
